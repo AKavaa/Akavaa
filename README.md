@@ -8,11 +8,16 @@ I’m a third-year Computing student at UCLan Cyprus, passionate about software 
 
 🛠️ Skills & Technologies
 
-Languages: C++, Python, PHP, JavaScript,
+Languages: C++, Python, PHP, JavaScript
+
 Frontend: HTML, CSS, JavaScript
+
 Backend: PHP, Node.js (basic)
+
 Databases: SQL, MongoDB, Azure SQL
+
 DevOps & Cloud: Docker, Azure, Containerization
+
 Other Interests: Algorithmic challenges, full-stack application development
 
 ⸻
