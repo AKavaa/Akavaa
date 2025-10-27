@@ -33,7 +33,15 @@ Other Interests: Algorithmic challenges, full-stack application development
 • Web Development Projects – Created interactive login pages, dynamic forms, and full-stack applications using PHP, SQL, and JavaScript.
 
 • Portfolio Website – Designed and developed a personal portfolio site showcasing my projects, skills, and achievements. https://alexkavaleuskiy.me/
-	
+
+
+
+	## 🧠 Languages & Tools
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 
 
