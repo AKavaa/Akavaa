@@ -6,7 +6,7 @@ I’m a third-year Computing student at UCLan Cyprus, passionate about software 
 
 ⸻
 
-🛠️ Skills & Technologies
+🛠️ Technologies & Tools
 
 Languages: C++, Python, PHP, JavaScript
 
@@ -20,7 +20,6 @@ DevOps & Cloud: Docker, Azure, Containerization
 
 Other Interests: Algorithmic challenges, full-stack application development
 
-## 🛠️ Technologies & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
