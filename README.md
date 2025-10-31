@@ -10,7 +10,7 @@ I’m a third-year Computing student at UCLan Cyprus, passionate about software 
 
 Languages: C++, Python, PHP, JavaScript
 
-Frontend: HTML, CSS, JavaScript
+Frontend: HTML, CSS, JavaScript, React (basic)
 
 Backend: PHP, Node.js (basic)
 
