@@ -8,7 +8,7 @@ I’m a third-year Computing student at UCLan Cyprus, passionate about software 
 
 🛠️ Technologies & Tools
 
-Languages: C++, Python, PHP, JavaScript
+Languages: C++, Python, PHP, Dart, JavaScript
 
 Frontend: HTML, CSS, JavaScript, Flutter (basic)
 
