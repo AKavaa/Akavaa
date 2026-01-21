@@ -8,13 +8,15 @@ I’m a third-year Computing student at UCLan Cyprus, passionate about software 
 
 🛠️ Technologies & Tools
 
-Languages: C++, Python, PHP, Dart, JavaScript
+Languages: C++, C#, Python, PHP, Dart, JavaScript
 
 Frontend: HTML, CSS, JavaScript, Flutter (basic)
 
 Backend: PHP, Node.js (basic)
 
-Databases: SQL, MongoDB, Azure SQL
+Databases: SQL, Azure SQL
+
+Frameworks: React(basic), Flutter, .NET
 
 DevOps & Cloud: Docker, Azure, Containerization
 
@@ -24,7 +26,8 @@ Other Interests: Algorithmic challenges, full-stack application development
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+  <<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="50" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
