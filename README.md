@@ -14,7 +14,7 @@ Frontend: HTML, CSS, JavaScript, Flutter (basic)
 
 Backend: PHP, Node.js (basic)
 
-Databases: SQL, Azure SQL
+Databases: SQL
 
 Frameworks: React(basic), Flutter, .NET
 
