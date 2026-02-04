@@ -10,7 +10,7 @@ I’m a third-year Computing student at UCLan Cyprus, passionate about software 
 
 Languages: C++, C#, Python, PHP, Dart, JavaScript
 
-Frontend: HTML, CSS, JavaScript, Flutter (basic)
+Frontend: HTML, CSS, JavaScript, Flutter & React (basic)
 
 Backend: PHP, Node.js (basic)
 
