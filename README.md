@@ -51,4 +51,6 @@ I’m constantly improving my backend and full-stack skills, exploring cloud sol
 
 📫 Contact & Links
 	•	GitHub
-	•	LinkedIn https://www.linkedin.com/in/aleksander-kavaleuskiy-8b2682349/
+	•	LinkedIn: https://www.linkedin.com/in/aleksander-kavaleuskiy-8b2682349/
+	•	Personal Website: https://alexkavaleuskiy.me/
+	
