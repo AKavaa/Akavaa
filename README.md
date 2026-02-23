@@ -1,8 +1,8 @@
 👋 Hi, I’m Aleksander Kavaleuskiy
 
-Aspiring Full-Stack Developer | Backend & Frontend | 
+Software Engineer | Scalable Systems | OOP & Architecture
 
-I’m a third-year Computing student at UCLan Cyprus, passionate about software engineering, algorithmic problem-solving, and building real-world applications. I enjoy developing efficient, scalable, and maintainable projects that integrate frontend, backend, and cloud technologies.
+Third-year Computing student specializing in backend architecture and full-stack system design. Built projects across C++, C#, and React, focusing on clean code, modular design, performance, and real-world integration. Strong interest in scalable applications, data-driven systems, and production-ready engineering practices.
 
 ⸻
 
