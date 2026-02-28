@@ -16,7 +16,7 @@ Backend: PHP, Node.js (basic)
 
 Databases: SQL
 
-Frameworks: React(basic), Flutter, .NET
+Frameworks: React, Flutter, .NET
 
 DevOps & Cloud: Docker, Containerization
 
