@@ -10,7 +10,7 @@ Third-year Computing student specializing in backend architecture and full-stack
 
 Languages: C++, C#, Python, PHP, Dart, JavaScript
 
-Frontend: HTML, CSS/SCSS, JavaScript, Flutter & React (basic)
+Frontend: HTML, CSS/SCSS, JavaScript, Flutter & React
 
 Backend: PHP, Node.js (basic)
 
