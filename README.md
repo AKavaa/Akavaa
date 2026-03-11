@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aleksander+%F0%9F%91%8B;Software+Engineer;Systems+%7C+Full-Stack+%7C+AI+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aleksander+%F0%9F%91%8B;Software+Developer;Systems+%7C+Full-Stack+%7C+AI+Apps" alt="Typing SVG" />
 
 **Systems Programming · Full-Stack Web · AI-Integrated Applications**
 
