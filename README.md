@@ -44,14 +44,8 @@ I build production-grade applications with a focus on clean architecture, perfor
 </p>
 
 ---
+## 📈 Contribution Graph
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AKavaa&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKavaa&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AKavaa&theme=github-dark&hide_border=true" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AKavaa&theme=github-dark&hide_border=true"/>
 
 </div>
