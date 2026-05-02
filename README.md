@@ -18,12 +18,12 @@ I build production-grade applications with a focus on clean architecture, perfor
 
 **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,js,ts,python" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,ts,python" />
 </p>
 
 **Frontend & Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,dotnet,html,css,fastapi" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,dotnet,html,css,fastapi" />
 </p>
 
 **Tools & Infrastructure**
