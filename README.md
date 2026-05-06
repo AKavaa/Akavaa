@@ -41,10 +41,6 @@ I build production-grade applications with a focus on clean architecture, perfor
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKavaa&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKavaa&theme=github_dark&hide_border=true&layout=compact" width="41%" />
-</div>
 
 ---
 
